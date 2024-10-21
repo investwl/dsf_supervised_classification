@@ -1,2 +1,2 @@
 # dsf_supervised_classification
-This repository is used to upload Digital Skill Fair's Code by dibimbing.id
+The code in this file is a Supervised Machine Learning with Random Forest and KNN for Titanic Dataset for Digital Skill Fair by dibimbing.id
